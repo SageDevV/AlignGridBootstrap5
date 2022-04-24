@@ -1,0 +1,25 @@
+.container{
+    background-color: gray;
+    border: 5px dotted blue;
+    padding: 10px;
+}
+.row{
+    border: 5px solid purple;
+    height: 100%;
+    padding: 20px;
+    margin: 0;
+}
+#Vertical{
+    height: 250px;
+    border-color: coral;
+}
+#Vertical row{
+    height: 100%
+}
+.col-6,
+.col-3,
+.col-4{
+    height: 50px;
+    border: 2px dashed red;
+    margin: 0;
+}
